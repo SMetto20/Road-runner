@@ -27,6 +27,7 @@ h1{
 .service{
     display: flex;
     margin-top: 70px;
+    margin-bottom: 200px;
 
 }
 .general{
