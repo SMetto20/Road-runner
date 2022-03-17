@@ -24,3 +24,7 @@ h1{
 .new{
     margin-bottom: 700px;
 }
+.service{
+    display: flex;
+
+}
