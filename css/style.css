@@ -5,7 +5,7 @@
 }
 .banner{
     display: flex;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 .links{
     margin-left: 300px;
@@ -26,5 +26,31 @@ h1{
 }
 .service{
     display: flex;
+    margin-top: 70px;
 
+}
+.general{
+    text-align: center;
+    margin-left: 50px;
+}
+.position{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 16px;
+}
+.top{
+    background-color: black;
+    height: 70px;
+}
+h6{
+    margin-left: 750px;
+    color: white;
+    position: fixed;
+    margin-top:50px;
+    font-size: 13px;
+}
+.fitting{
+    text-align: center;
+    font-size: 16px;
 }
